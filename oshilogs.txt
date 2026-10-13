@@ -12,55 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Leina =====
-[1]Leina       |08:45:51 | 12-10-2026| login OK @leinaviolitha | score=990 rank=6185
-[1]Leina       |08:45:51 | 12-10-2026| serverTime=2026-10-12T08:45:51.000Z local=2026-10-12T08:45:51.247Z
+[1]Leina       |09:04:20 | 13-10-2026| login OK @leinaviolitha | score=1080 rank=5752
+[1]Leina       |09:04:20 | 13-10-2026| serverTime=2026-10-13T09:04:20.000Z local=2026-10-13T09:04:20.214Z
 --> [1]Leina menjalankan: Claim Daily
-[1]Leina       |08:45:52 | 12-10-2026| daily: OK +10 poin score=1000
---> [1]Leina menjalankan: Auto All Tasks (8 pending)
-[1]Leina       |08:45:57 | 12-10-2026| [1/8] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109565783394076662
-[1]Leina       |08:45:57 | 12-10-2026| delay 10s...
-[1]Leina       |08:46:09 | 12-10-2026| [2/8] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109565916288909384
-[1]Leina       |08:46:09 | 12-10-2026| delay 10s...
-[1]Leina       |08:46:21 | 12-10-2026| [3/8] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109565724806058930
-[1]Leina       |08:46:21 | 12-10-2026| delay 10s...
-[1]Leina       |08:46:33 | 12-10-2026| [4/8] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Leina       |08:46:33 | 12-10-2026| delay 10s...
-[1]Leina       |08:46:45 | 12-10-2026| [5/8] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109565925262447622
-[1]Leina       |08:46:45 | 12-10-2026| delay 10s...
-[1]Leina       |08:46:58 | 12-10-2026| [6/8] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109566144441121485
-[1]Leina       |08:46:58 | 12-10-2026| delay 10s...
-[1]Leina       |08:47:10 | 12-10-2026| [7/8] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Leina       |08:47:10 | 12-10-2026| delay 10s...
-[1]Leina       |08:47:22 | 12-10-2026| [8/8] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109566239209927520
-[1]Leina       |08:47:22 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Leina       |08:47:24 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/leinaviolitha/status/2109566014306895152
+[1]Leina       |09:04:21 | 13-10-2026| daily: OK +10 poin score=1090
+--> [1]Leina menjalankan: Auto All Tasks (4 pending)
+[1]Leina       |09:04:23 | 13-10-2026| [1/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109932693340747191
+[1]Leina       |09:04:23 | 13-10-2026| delay 10s...
+[1]Leina       |09:04:35 | 13-10-2026| [2/4] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109932738900464025
+[1]Leina       |09:04:35 | 13-10-2026| delay 10s...
+[1]Leina       |09:04:47 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109932852733951219
+[1]Leina       |09:04:47 | 13-10-2026| delay 10s...
+[1]Leina       |09:04:59 | 13-10-2026| [4/4] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/leinaviolitha/status/2109932785405604272
+[1]Leina       |09:04:59 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Leina       |09:05:01 | 13-10-2026| [1/1] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/leinaviolitha/status/2109933058323653376
 --> [1]Leina menjalankan: Watch Anime
-[1]Leina       |08:47:25 | 12-10-2026| watch: semua video sudah completed
+[1]Leina       |09:05:01 | 13-10-2026| watch: semua video sudah completed
 --> [1]Leina menjalankan: Read Article
-[1]Leina       |08:47:26 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Leina       |08:47:27 | 12-10-2026| mint eligibility: {"userId":"2011497235188776960","youtube":{"url":"https://www.youtube.com/@leinaviolitha","status":"submitted","revision":"d63ebd80-4fab-4eb6-9435-44b4dd6ff54a","submittedAt":1791686528,"reviewedAt":1
-[1]Leina       |08:47:27 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Leina       |09:05:02 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Leina       |09:05:03 | 13-10-2026| mint eligibility: {"userId":"2011497235188776960","youtube":{"url":"https://www.youtube.com/@leinaviolitha","status":"submitted","revision":"d63ebd80-4fab-4eb6-9435-44b4dd6ff54a","submittedAt":1791686528,"reviewedAt":1
+[1]Leina       |09:05:03 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Leina menjalankan: Quiz Anime
-[1]Leina       |08:47:27 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Leina       |08:47:27 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Leina       |08:47:27 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Leina       |08:47:27 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Leina       |08:47:27 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Leina       |08:47:27 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Leina       |09:05:03 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Leina       |09:05:03 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Leina       |09:05:03 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Leina       |09:05:03 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Leina       |09:05:03 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Leina       |09:05:03 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Leina menjalankan: Music Missions (realtime, bisa lama!)
-[1]Leina       |08:47:29 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Leina       |08:47:30 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Leina       |08:47:30 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Leina       |08:47:30 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Leina       |09:05:05 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Leina       |09:05:05 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Leina       |09:05:05 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Leina       |09:05:05 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Leina menjalankan: Claim Missions
-[1]Leina       |08:47:31 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Leina       |08:47:31 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Leina       |08:47:31 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Leina       |09:05:06 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Leina       |09:05:06 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Leina       |09:05:06 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Leina menjalankan: Check Eligibility
 
 --- eligibility [1]Leina ---
-  @leinaviolitha | score=990 rank=6185
-  tasks    [##################--] 72/80
+  @leinaviolitha | score=1080 rank=5752
+  tasks    [###################-] 73/77
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -68,17 +60,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=true mintOpen=false discord=true
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Leina menjalankan: Read Manga
-[1]Leina       |08:47:35 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Leina       |09:05:09 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Leina menjalankan: Get Gift
-[1]Leina       |08:47:36 | 12-10-2026| gift: 0/3 belum diterima
+[1]Leina       |09:05:09 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Leina menjalankan: Setup Profile
-[1]Leina       |08:47:36 | 12-10-2026| profile: bio="https://x.com/leinaviolitha" fav=mony rewardAt=1791712409
-[1]Leina       |08:47:36 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Leina       |09:05:10 | 13-10-2026| profile: bio="https://x.com/leinaviolitha" fav=mony rewardAt=1791712409
+[1]Leina       |09:05:10 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Leina menjalankan: Bind Wallet
-[1]Leina       |08:47:37 | 12-10-2026| wallet: sudah terikat FCns6XwsC5... (solana)
+[1]Leina       |09:05:10 | 13-10-2026| wallet: sudah terikat FCns6XwsC5... (solana)
 
 == RINGKASAN ==
-- Leina: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
+- Leina: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
